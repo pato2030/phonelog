@@ -1,2 +1,2 @@
 # phonelog
-how to add a phone number a log
+how to add a phone number to a log
